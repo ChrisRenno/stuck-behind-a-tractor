@@ -2,6 +2,7 @@
 ```
 vue-cli app
 ```
+Little project for generating excuses to use on strava for mardy testers.
 
 ## Project setup
 ```
